@@ -22,6 +22,8 @@ This is a React Native Expo application that clones the Uber Eats mobile app int
 - **Promotional Tags**: Special offers like "Spend $25, Save $5"
 - **Bottom Navigation**: Consistent navigation across pages
 
+### shopping cart page (Snapshot 3)
+
 ## Technologies Used
 
 - React Native
