@@ -119,5 +119,11 @@ The application successfully replicates both Uber Eats interfaces:
 
 The "Alert" button at the bottom of the home screen triggers a native alert popup with the message "Alert Button pressed" when clicked.
 
-## Conclusion
-This project demonstrates a React Native Expo app that replicates the Uber Eats mobile app interface. It includes two pages with navigation functionality and a custom alert button. The app is built using TypeScript, React Native, and Expo, and it supports web, iOS, and Android platforms.
+## Navigation Implementation
+
+The navigation is implemented using React state management:
+- `useState` hook to track current page
+- Conditional rendering based on page state
+- Props passed to child components for navigation callbacks
+- Consistent UI elements across both pages
+
